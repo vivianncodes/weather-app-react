@@ -63,7 +63,7 @@ export default function Weather() {
         </a>
         and
         <a
-          href="https://skycast-vivianncodes.netlify.app/"
+          href="https://skycast-weather-react.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
