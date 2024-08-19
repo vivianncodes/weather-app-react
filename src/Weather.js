@@ -55,7 +55,7 @@ export default function Weather() {
         </a>
         and is
         <a
-          href="https://github.com/vivianncodes/final-weather-app"
+          href="https://github.com/vivianncodes/weather-app-react"
           target="_blank"
           rel="noopener noreferrer"
         >
