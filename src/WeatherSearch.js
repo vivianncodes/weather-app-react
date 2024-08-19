@@ -7,7 +7,7 @@ export default function WeatherSearch() {
   }
 
   function changeCity(event) {
-    setCity(event.target.value);
+    event.preventDefault();
   }
 
   return (
