@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import "../src/Weather.css";
 
 export default function WeatherSearch() {
