@@ -46,23 +46,36 @@ export default function Weather() {
       </main>
       <footer>
         Coded by
-        <a href="https://github.com/vivianncodes" target="_blank">
+        <a
+          href="https://github.com/vivianncodes"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           Vivian Nguyen
         </a>
         and is
         <a
           href="https://github.com/vivianncodes/final-weather-app"
           target="_blank"
+          rel="noopener noreferrer"
         >
           open-sourced on Github
         </a>
         and
-        <a href="https://skycast-vivianncodes.netlify.app/" target="_blank">
+        <a
+          href="https://skycast-vivianncodes.netlify.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           hosted on Netlify
         </a>
         <br />
         Feature background by
-        <a href="https://www.facebook.com/PdM.Ilustraciones" target="_blank">
+        <a
+          href="https://www.facebook.com/PdM.Ilustraciones"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           @_shunior
         </a>
       </footer>
